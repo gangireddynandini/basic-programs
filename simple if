@@ -1,0 +1,5 @@
+#movie tickets
+tcts=input("do u have tickets")
+if (tcts=="yes"):
+print("go to theatre")
+print("go to home")
